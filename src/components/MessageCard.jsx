@@ -13,19 +13,35 @@ function MessageCard({ isActive }) {
   const curtainHintRef = useRef(null);
   const messageContentRef = useRef(null);
 
-  const message = `[Recipient Name],
+  const message = `[DUDU 💗],
 
-Your personalized birthday message goes here.
+💖 To the One My Heart Chose 💖
+To the one my heart chose without hesitation 💕,
+I still wonder how you walked into my life so quietly
+and ended up meaning everything to me 🌙✨
+You don’t even realize it, but you changed my world just by being in it 🌸.
+Your presence feels like home 🏡,
+your smile feels like safety 🤍,
+and your love feels like a calm I never knew I needed 🌊
+You became my comfort 🤍,
+my soft place to fall 🫶,
+and the reason my ordinary days feel special 💫.
+Loving you feels effortless, natural, right 💖
+as if my heart always knew it was meant to find yours ♾️
+Some people come into your life and quietly change everything 🌷
+and you are that person for me.
+No matter where life takes us,
+a part of my heart will always recognize yours 💞
+Thank you for being you…
+my favorite human 💫,
+my unexpected blessing ✨,
+and my heart’s happiest thought 💖
+Always 🫶♾️
 
-You can write multiple paragraphs to express your feelings,
-share memories, and make this special day even more memorable.
 
-This template supports multiple lines and formatting,
-so feel free to customize it completely to fit your style.
+Happy Birthday Chinnu Ga! 🎉
 
-Happy Birthday! 🎉
-
-— [Your Name]`;
+— [Bubu]`;
 
   // Handle page transitions
   useEffect(() => {
